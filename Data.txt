@@ -525,4 +525,65 @@ Semicolon vs period in cause-effect
 విడి వాక్యాలు: వర్షం పడింది. రోడ్లు జారుడుగా మారాయి.
 Em dash for parenthetical emphasis
 ఉదా: నేను—ఇది నా వ్యక్తిగత అభిప్రాయం—ఈ నిర్ణయాన్ని మద్దతిస్తున్నాను.
+Ambiguous Cases (Punctuation Changes Meaning)
+Comma splice ambiguity
+తప్పు: అతను వచ్చాడు ఆమె వెళ్లిపోయింది
+సరైనది (neutral): అతను వచ్చాడు; ఆమె వెళ్లిపోయింది.
+సరైనది (causal): అతను వచ్చాడు, ఆమె వెళ్లిపోయింది. (implies cause-effect)
+Modifier attachment ambiguity
+తప్పు: నేను అమ్మతో మాట్లాడి నవ్విన పిల్లవాడిని చూశాను
+సరైనది (I laughed): నేను అమ్మతో మాట్లాడి, నవ్విన పిల్లవాడిని చూశాను.
+సరైనది (boy laughed): నేను అమ్మతో మాట్లాడి నవ్విన పిల్లవాడిని చూశాను. (no comma = boy laughed)
+List vs apposition ambiguity
+తప్పు: రాము సీత లక్ష్మణుడు అడవికి వెళ్లారు
+సరైనది (3 people): రాము, సీత, లక్ష్మణుడు అడవికి వెళ్లారు.
+సరైనది (2 people): రాము, సీతలక్ష్మణుడు అడవికి వెళ్లారు. (Sita-Lakshmana as compound name)
+Rare Punctuation Marks in Telugu
+Semicolon for complex list items
+ఉదా: పండుగ సిద్ధతలు: ఇంట్లో శుభ్రం చేయడం; సామాగ్రి కొనుగోలు; బంధువులకు ఫోన్ చేయడం.
+Em dash for abrupt interruption
+ఉదా: నేను రేపు బడికి వెళ్తాను—అయ్యో! బస్సు వచ్చేసింది!
+En dash for ranges (often misused as hyphen)
+తప్పు: పేజీలు 10-15 చదవండి
+సరైనది: పేజీలు 10–15 చదవండి (en dash U+2013, not hyphen)
+Colon introducing explanation
+ఉదా: ఒక సమస్య ఉంది: మనం సరైన సమయంలో చేరలేకపోతున్నాం.
+Code-Mixed Punctuation Challenges
+English acronym with Telugu verb
+తప్పు: నేను ATM వద్దకు వెళ్లాను
+సరైనది: నేను ATM వద్దకు వెళ్లాను. (no extra punctuation needed)
+Mixed-language list
+తప్పు: కావలసినవి milk bread మరియు eggs
+సరైనది: కావలసినవి: milk, bread మరియు eggs.
+Quotation marks spanning languages
+తప్పు: అతను చెప్పాడు నేను "homework" చేశాను
+సరైనది: అతను చెప్పాడు, "నేను 'homework' చేశాను."
+Hashtag integration
+తప్పు: ఈ రోజు బాగుంది #happyday
+సరైనది: ఈ రోజు బాగుంది! #happyday (no space before hashtag)
+URL/email in Telugu sentence
+ఉదా: నా email: elixee@gmail.com. దయచేసి రాయండి.
+Historical vs Modern Punctuation
+Pre-1950s manuscript style (minimal punctuation)
+చారిత్రకం: రాముడు సీతను వెతుకుచు అడవులు తిరిగెను
+ఆధునికం: రాముడు సీతను వెతుక్కుంటూ అడవుల్లో తిరిగాడు.
+Colon usage evolution
+చారిత్రకం (1920s): అతడు ఇట్లు పలికెను — నేను వెళ్లెదను
+ఆధునికం: అతడు ఇట్లు పలికాడు, "నేను వెళ్తాను."
+Danda (।) misuse by learners
+తప్పు (Sanskrit influence): నేను ఇంటికి వెళ్తున్నాను।
+సరైనది (Telugu): నేను ఇంటికి వెళ్తున్నాను.
+Advanced Ambiguity Cases
+Quotation vs irony without quotes
+అర్థం 1 (literal): అతను "మంచి వ్యక్తి" అని చెప్పాడు.
+అర్థం 2 (sarcastic): అతను మంచి వ్యక్తి అని చెప్పాడు. (no quotes = genuine praise)
+Ellipsis for trailing thought
+ఉదా: నేను వెళ్లాలనుకుంటున్నా... కానీ వర్షం పడుతోంది.
+Parenthetical insertion
+ఉదా: రాము (మా పొరుగువాడు) రేపు వస్తాడు.
+Semicolon vs period in cause-effect
+కారణ-ఫలితం: వర్షం పడింది; రోడ్లు జారుడుగా మారాయి.
+విడి వాక్యాలు: వర్షం పడింది. రోడ్లు జారుడుగా మారాయి.
+Em dash for parenthetical emphasis
+ఉదా: నేను—ఇది నా వ్యక్తిగత అభిప్రాయం—ఈ నిర్ణయాన్ని మద్దతిస్తున్నాను.
 
