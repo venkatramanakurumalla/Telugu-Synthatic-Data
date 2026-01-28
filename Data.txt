@@ -39,3 +39,107 @@ Incorrect: ఆమె వచ్చి నవ్వుతూ కూర్చుం
 Correct: ఆమె నవ్వుతూ వచ్చి కూర్చుంది
 Incorrect: ఇది చాలా మంచి ఉంది
 Correct: ఇది చాలా మంచిగా ఉంది
+Base sentence: రవి ప్రతిరోజూ ఉదయం కాఫీ తాగుతాడు. (Ravi drinks coffee every morning.)
+
+Transformations:
+
+Active → Passive voice రవి కాఫీ తాగుతాడు → రవి చేత కాఫీ తాగబడుతుంది. (Ravi drinks coffee → Coffee is drunk by Ravi.)
+
+Simple → Compound sentence రవి కాఫీ తాగుతాడు → రవి కాఫీ తాగుతాడు మరియు పేపర్ చదువుతాడు. (Ravi drinks coffee → Ravi drinks coffee and reads the paper.)
+
+Declarative → Interrogative రవి కాఫీ తాగుతాడు → రవి కాఫీ తాగుతాడా? (Ravi drinks coffee → Does Ravi drink coffee?)
+
+Positive → Negative form రవి కాఫీ తాగుతాడు → రవి కాఫీ తాగడు. (Ravi drinks coffee → Ravi does not drink coffee.)
+
+Present tense → Past tense రవి కాఫీ తాగుతాడు → రవి కాఫీ తాగాడు. (Ravi drinks coffee → Ravi drank coffee.)
+
+Present tense → Future tense రవి కాఫీ తాగుతాడు → రవి కాఫీ తాగుతాడు/తాగబోతున్నాడు. (Ravi drinks coffee → Ravi will drink coffee.)
+
+Singular → Plural form రవి కాఫీ తాగుతాడు → వాళ్లు కాఫీ తాగుతారు. (Ravi drinks coffee → They drink coffee.)
+
+Add adverb రవి కాఫీ తాగుతాడు → రవి నెమ్మదిగా కాఫీ తాగుతాడు. (Ravi drinks coffee → Ravi drinks coffee slowly.)
+
+Grammar Notes:
+
+Passive Voice: In conversational Telugu, the passive voice ("-బడు" form) is rarely used. It is mostly found in formal writing (Grandhika).
+
+Conjunctions: "మరియు" (and) is formal. In spoken Telugu, we simply pause or use "ఇంకా" (also).
+
+Verb Ending: Notice how "తాగుతాడు" (singular masculine) changes to "తాగుతారు" (plural/respectful).
+Category 2: Nature/Weather
+Base sentence: ఆకాశంలో నల్లటి మేఘాలు వస్తున్నాయి. (Black clouds are coming in the sky.)
+
+Transformations:
+
+Active → Passive voice మేఘాలు వస్తున్నాయి → (Passive form is unnatural for intransitive verbs like 'coming' in Telugu). (Note: Intransitive verbs cannot naturally be made passive).
+
+Simple → Compound sentence మేఘాలు వస్తున్నాయి → మేఘాలు వస్తున్నాయి కానీ వర్షం పడటం లేదు. (Clouds are coming → Clouds are coming but rain is not falling.)
+
+Declarative → Interrogative మేఘాలు వస్తున్నాయి → మేఘాలు వస్తున్నాయా? (Clouds are coming → Are clouds coming?)
+
+Positive → Negative form మేఘాలు వస్తున్నాయి → మేఘాలు రావడం లేదు. (Clouds are coming → Clouds are not coming.)
+
+Present tense → Past tense మేఘాలు వస్తున్నాయి → మేఘాలు వచ్చాయి. (Clouds are coming → Clouds came/arrived.)
+
+Present tense → Future tense మేఘాలు వస్తున్నాయి → మేఘాలు రాబోతున్నాయి. (Clouds are coming → Clouds are going to come.)
+
+Singular → Plural form (Base is already plural). Singular: మేఘం వస్తోంది → మేఘాలు వస్తున్నాయి. (Cloud comes → Clouds come.)
+
+Add adverb మేఘాలు వస్తున్నాయి → మేఘాలు వేగంగా వస్తున్నాయి. (Clouds are coming → Clouds are coming fast.)
+Base sentence: ఆమె ఫలితాల గురించి చాలా భయపడుతోంది. (She is worrying/scared a lot about the results.)
+
+Transformations:
+
+Active → Passive voice (Not applicable for internal emotive states in natural Telugu).
+
+Simple → Compound sentence ఆమె భయపడుతోంది → ఆమె భయపడుతోంది, అందుకే ఏడుస్తోంది. (She is scared → She is scared, therefore she is crying.)
+
+Declarative → Interrogative ఆమె భయపడుతోంది → ఆమె భయపడుతోందా? (She is scared → Is she scared?)
+
+Positive → Negative form ఆమె భయపడుతోంది → ఆమె భయపడటం లేదు. (She is scared → She is not scared.)
+
+Present tense → Past tense ఆమె భయపడుతోంది → ఆమె భయపడింది. (She is scared → She was scared.)
+
+Present tense → Future tense ఆమె భయపడుతోంది → ఆమె భయపడుతుంది. (She is scared → She will be scared.)
+
+Singular → Plural form ఆమె భయపడుతోంది → వాళ్ళు భయపడుతున్నారు. (She is scared → They are scared.)
+
+Add adverb ఆమె భయపడుతోంది → ఆమె అనవసరంగా భయపడుతోంది. (She is scared → She is unnecessarily scared.)
+Base sentence: మేనేజర్ గారు మీటింగ్‌లో ప్రాజెక్ట్ వివరిస్తున్నారు. (The manager is explaining the project in the meeting.)
+
+Transformations:
+
+Active → Passive voice మేనేజర్ ప్రాజెక్ట్ వివరిస్తున్నారు → ప్రాజెక్ట్ మేనేజర్ చేత వివరించబడుతోంది. (Manager is explaining project → Project is being explained by manager.)
+
+Simple → Compound sentence మేనేజర్ వివరిస్తున్నారు → మేనేజర్ వివరిస్తున్నారు మరియు ప్రశ్నలు అడుగుతున్నారు. (Manager is explaining → Manager is explaining and asking questions.)
+
+Declarative → Interrogative మేనేజర్ వివరిస్తున్నారు → మేనేజర్ వివరిస్తున్నారా? (Is the manager explaining?)
+
+Positive → Negative form మేనేజర్ వివరిస్తున్నారు → మేనేజర్ వివరించడం లేదు. (The manager is not explaining.)
+
+Present tense → Past tense మేనేజర్ వివరిస్తున్నారు → మేనేజర్ వివరించారు. (The manager explained.)
+
+Present tense → Future tense మేనేజర్ వివరిస్తున్నారు → మేనేజర్ వివరిస్తారు. (The manager will explain.)
+
+Singular → Plural form (Manager is singular but uses respectful plural). Non-respectful singular: అతడు వివరిస్తున్నాడు → వారు వివరిస్తున్నారు.
+
+Add adverb మేనేజర్ వివరిస్తున్నారు → మేనేజర్ క్లుప్తంగా వివరిస్తున్నారు. (Manager is explaining → Manager is explaining briefly.)
+Base sentence: మా అమ్మ పండుగ రోజు పిండివంటలు చేస్తుంది. (My mother makes snacks on the festival day.)
+
+Transformations:
+
+Active → Passive voice అమ్మ పిండివంటలు చేస్తుంది → అమ్మ చేత పిండివంటలు చేయబడతాయి. (Mother makes snacks → Snacks are made by mother.)
+
+Simple → Compound sentence అమ్మ పిండివంటలు చేస్తుంది → అమ్మ పిండివంటలు చేస్తుంది మరియు గుడికి వెళ్తుంది. (Mother makes snacks → Mother makes snacks and goes to the temple.)
+
+Declarative → Interrogative అమ్మ పిండివంటలు చేస్తుందా? (Does mother make snacks?)
+
+Positive → Negative form అమ్మ పిండివంటలు చేయదు. (Mother does not make snacks.)
+
+Present tense → Past tense అమ్మ పిండివంటలు చేసింది. (Mother made snacks.)
+
+Present tense → Future tense అమ్మ పిండివంటలు చేయబోతోంది. (Mother is going to make snacks.)
+
+Singular → Plural form అమ్మ చేస్తుంది → అమ్మలందరూ చేస్తారు (Mothers make) / మేము చేస్తాము (We make).
+
+Add adverb అమ్మ పిండివంటలు చేస్తుంది → అమ్మ రుచిగా పిండివంటలు చేస్తుంది. (Mother makes snacks → Mother makes snacks tastily.)
