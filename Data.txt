@@ -840,6 +840,24 @@ Explanation: In writing, maintain proper word order even though speech contracts
 జ: 'ప్రధాన' అంటే ముఖ్యమైన/శిఖర (Principal). 'సూత్రం' అంటే నియమం/తత్వం (Principle). ఇది ఇంగ్లిష్లో 'principal vs principle' వంటిది.
 ఉదాహరణ: 'అతను పాఠశాల ప్రధానోపాధ్యాయుడు' (ప్రధాన వ్యక్తి) vs 'నీతి నియమాలు అతని జీవిత సూత్రాలు' (తత్వాలు/నియమాలు).
 మెమరీ టిప్: ప్రధానుడు - పాల్ (మిత్రుడు) లాగా, సూత్రం - సుచన (నియమం) లాగా గుర్తుంచుకోండి.
+Original (with errors):
+ఈ రోజు మా ఊరిలో జాతర జరుగుతుంది, ప్రతి ఇల్లు అలంకరించారు. చాలా మంది ప్రజలు వచ్చింది, ధ్వని చాలా ఎక్కువగా ఉంటుంది. నేను ఒక పూలహారం కొని, నా చెల్లెలు ఇచ్చాను. ఆమె చాలా సంతోషించింది అందువల్ల ఆమె నవ్వు. శాంతి మరియు ఆనందం నిండి ఉన్నాయి ఈ వాతావరణంలో.
+
+Corrected:
+ఈ రోజు మా ఊరిలో జాతర జరుగుతోంది, ప్రతి ఇల్లూ అలంకరించారు. చాలా మంది ప్రజలు వచ్చారు, ధ్వని చాలా ఎక్కువగా ఉంది. నేను ఒక పూలహారం కొని నా చెల్లెలికి ఇచ్చాను. ఆమె చాలా సంతోషించింది కాబట్టి ఆమె నవ్వుతూ ఉంది. శాంతి మరియు ఆనందంతో ఈ వాతావరణం నిండి ఉంది.
+
+Explanations:
+
+Tense Error (కాల దోషం): "జరుగుతుంది" (future) was incorrect. The fair is happening today, so the present continuous tense "జరుగుతోంది" is correct.
+
+Agreement Error (సమాస దోషం): "ప్రతి ఇల్లు" (singular) does not agree with the plural verb "అలంకరించారు". The correct form is "ప్రతి ఇల్లూ" (each and every house), which agrees with the plural verb.
+
+Word Choice Error (పద ఎంపిక దోషం): "నా చెల్లెలు ఇచ్చాను" means "I gave my sister (to someone)". The intended meaning is "I gave to my sister," which is "నా చెల్లెలికి ఇచ్చాను". The dative case marker "కి" is essential.
+
+Punctuation/Sentence Structure Error (విరామ చిహ్న/వాక్యనిర్మాణ దోషం): "ఆమె చాలా సంతోషించింది అందువల్ల ఆమె నవ్వు." is a run-on sentence. It is better structured as two clauses: "...సంతోషించింది కాబట్టి ఆమె నవ్వుతూ ఉంది." Also, "నవ్వు" is a noun; the continuous action requires "నవ్వుతూ ఉంది".
+
+Sentence Structure/Agreement Error (వాక్యనిర్మాణ/సమాస దోషం): "శాంతి మరియు ఆనందం నిండి ఉన్నాయి ఈ వాతావరణంలో." has awkward word order and agreement. The abstract qualities "శాంతి మరియు ఆనందం" are better described as filling the atmosphere with them. The corrected version "శాంతి మరియు ఆనందంతో ఈ వాతావరణం నిండి ఉంది" is more natural and idiomatic.
+
 
 
 
