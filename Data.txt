@@ -732,4 +732,73 @@ Not able to come to the meeting, sorry yaar.
  "సోరీ" borrowed from English, very common in urban speech
  Feels like talking to a friend — casual, slightly apologetic but familiar
 
+1. Article Errors (a/an/the)
+Incorrect: నాకు ఒక పెన్ కావాలి. (When asking for a specific pen already mentioned)
+Correct: నాకు ఆ పెన్ కావాలి.
+Explanation: Telugu doesn't have direct articles like "a/an/the." "ఒక" means "one" (indefinite), while "ఆ" means "that" (definite). Use "ఆ" or "ఈ" for specific objects, not "ఒక."
+
+Incorrect: అతను ఒక డాక్టర్. (When emphasizing his profession)
+Correct: అతను డాక్టర్.
+Explanation: Unlike English, professions don't need "a" equivalent in Telugu. Just state the noun directly.
+
+2. Preposition Mistakes
+Incorrect: నేను మీ ఉపరి పని చేస్తున్నాను. (Direct English translation)
+Correct: నేను మీ కోసం పని చేస్తున్నాను.
+Explanation: "For you" translates to "మీ కోసం," not a literal word-for-word translation. "ఉపరి" means "on top of."
+
+Incorrect: పుస్తకం మేజా మీద ఉంది. (Redundant)
+Correct: పుస్తకం మేజా పైన ఉంది.
+Explanation: "మీద" and "పైన" both mean "on," but "మేజా మీద" is redundant since "మేజా" implies a surface. "మేజా పైన" is more natural.
+
+3. Word Order Problems
+Incorrect: అతను చేస్తున్నాడు ఇప్పుడు ఆ పని.
+Correct: అతను ఇప్పుడు ఆ పని చేస్తున్నాడు.
+Explanation: Telugu typically follows Subject-Time-Object-Verb (S-TOV) order. Verbs usually come at the end.
+
+Incorrect: ఎవరు ఈ పుస్తకం? (English word order)
+Correct: ఈ పుస్తకం ఎవరు?
+Explanation: In questions, the subject usually comes first, unlike English where the question word often leads.
+
+4. Countable/Uncountable Noun Errors
+Incorrect: నాకు రెండు సమాచారాలు కావాలి.
+Correct: నాకు కొంత సమాచారం కావాలి.
+Explanation: "సమాచారం" (information) is uncountable. Use "కొంత" (some) instead of numbers.
+
+Incorrect: మూడు దూలాలు ఇవ్వండి.
+Correct: మూడు దూలాలు ఇవ్వండి. (This is actually correct)
+Alternative confusion: చాలా నీరు vs. చాలా నీళ్లు
+Correct usage: "చాలా నీరు" (much water - uncountable), "రెండు గ్లాసులు నీళ్లు" (two glasses of water - countable with measure words)
+
+5. Phrasal Verb Confusion
+Incorrect: తిరిగి పొందండి ఆ పెన్. (Literal "get back")
+Correct: వెనక్కి తీసుకోండి ఆ పెన్.
+Explanation: Phrasal verbs don't translate literally. "Get back" = "వెనక్కి తీసుకోండి" (take back).
+
+Incorrect: పైకి రా ఆ మాటలు. ("Come up" with ideas - literal)
+Correct: ఆలోచించు / బయటకు తెచ్చు ఆ మాటలు.
+Explanation: "Come up with" ideas translates to "ఆలోచించు" (think) or "బయటకు తెచ్చు" (bring out).
+
+6. False Cognates
+Incorrect: నాకు ఆసక్తికరమైన పుస్తకం ఇవ్వండి. (Intending "interesting")
+Correct: నాకు ఆసక్తి కలిగించే పుస్తకం ఇవ్వండి.
+Explanation: "ఆసక్తికరమైన" sounds like "interesting" but is rarely used naturally. "ఆసక్తి కలిగించే" (interest-generating) is more common.
+
+Incorrect: ఇది కరెక్ట్ కాదు. (English borrowing when native exists)
+Correct: ఇది సరియైనది కాదు.
+Explanation: While "కరెక్ట్" is understood, "సరియైనది" is the proper Telugu equivalent for "correct."
+
+7. Pronunciation/Spelling Errors
+Incorrect: నేను వెళ్ళాను ఇంటికి. (Wrong retroflex)
+Correct: నేను వెళ్ళాను ఇంటికి. (But actually: నేను ఇంటికి వెళ్లాను.)
+Better example: రెండు vs. రెండు
+Common error: Confusing ళ్ళ (double retroflex) with ల్ల (double dental) in writing
+
+Incorrect: అతను చెప్పాడు అని నేను ఆలోచించాను. (Tense mismatch)
+Correct: అతను చెబుతాడు అని నేను ఆలోచించాను.
+Explanation: In reported thought, maintain tense consistency. If thinking in present about habitual action, use present tense "చెబుతాడు" not past "చెప్పాడు."
+
+Incorrect: ఉంటుంది అతను ఇంట్లో. (Spoken contraction written incorrectly)
+Correct: అతను ఇంట్లో ఉంటాడు.
+Explanation: In writing, maintain proper word order even though speech contracts "ఉంటుంది అతను" → "ఉంటాడ్ అతను" in rapid speech.
+
 
