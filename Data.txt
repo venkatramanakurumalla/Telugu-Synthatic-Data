@@ -585,5 +585,101 @@ Semicolon vs period in cause-effect
 కారణ-ఫలితం: వర్షం పడింది; రోడ్లు జారుడుగా మారాయి.
 విడి వాక్యాలు: వర్షం పడింది. రోడ్లు జారుడుగా మారాయి.
 Em dash for parenthetical emphasis
+Subjunctive Mood (సంభావ్యార్థకం)
+Structure: Expresses wishes, possibilities, or hypothetical situations using specific verb endings.
+
+Examples:
+
+నేను డాక్టర్ అయ్యేదాన్ని కావాలి. (Nēnu ḍākṭar ayyēdānni kāvāli.)
+I wish to become a doctor.
+
+మీరు వచ్చి ఉండేది మంచిది. (Mīru vacci uṇḍēdi man̄cidi.)
+It would be good if you came.
+
+అతను గెలిచి ఉండేవాడు అయితే బాగుండేది. (Atanu gelici uṇḍēvāḍu ayitē bāguṇḍēdi.)
+It would have been nice if he had won.
+
+2. Conditional Sentences (షరతుల వాక్యాలు)
+Zero conditional: వర్షం పడితే భూమి తడుపు అవుతుంది. (Varṣaṁ paḍitē bhūmi taḍupu avutundi.)
+If it rains, the ground gets wet.
+
+First conditional: నీవు చదివితే నీకు మార్కులు వస్తాయి. (Nīvu cadivitē nīku mārkulu vastāyi.)
+If you study, you will get marks.
+
+Second conditional: నాకు డబ్బు ఉంటే నేను విదేశాలు వెళ్తాను. (Nāku ḍabbu uṇṭē nēnu vidēśālu veḷtānu.)
+If I had money, I would travel abroad.
+
+Third conditional: అతను బస్సు పట్టి ఉంటే ఆకస్మికం తప్సిపోయేది. (Atanu bassu paṭṭi uṇṭē ākasmikaṁ tapsipōyēdi.)
+If he had caught the bus, the accident would have been avoided.
+
+3. Relative Clauses (సంబంధిత ఉపవాక్యాలు)
+Restrictive (essential): ఆ ఎర్రటి బట్టలు ధరించిన అమ్మాయి నా స్నేహితురాలు.
+That girl who is wearing red clothes is my friend.
+(Specifies which girl)
+
+Non-restrictive (additional info): రాము, ఎవరు నా అత్తగారి కొడుకు, ఈ రోజు వివాహం చేసుకుంటాడు.
+Ramu, who is my aunt's son, is getting married today.
+(Adds extra information)
+
+4. Participial Phrases (క్రియార్థక విశేషణాలు)
+Structure: Verb form acting as an adjective.
+
+Examples:
+
+గదిలో కూర్చొని, అతను పుస్తకం చదివాడు. (Gadilō kūrcōni, atanu pustakaṁ cadivāḍu.)
+Sitting in the room, he read a book.
+
+పని పూర్తి చేసి, ఆమె ఇంటికి వెళ్ళింది. (Pani pūrti cēsi, āme iṇṭiki veḷḷindi.)
+Having finished the work, she went home.
+
+5. Appositives (పర్యాయపద నామవాచకాలు)
+Structure: Noun/pronoun placed next to another noun to rename/explain it.
+
+Examples:
+
+నా మిత్రుడు రాజు, డాక్టర్, నాకు ఫోన్ చేశాడు.
+My friend Raju, a doctor, called me.
+
+విజయవాడ, కృష్ణా జిల్లా రాజధాని, పురాతన నగరం.
+Vijayawada, the capital of Krishna district, is an ancient city.
+
+6. Parallel Structure (సమాంతర నిర్మాణం)
+Correct: అతను పాడగలడు, నృత్యం చేయగలడు మరియు రచన చేయగలడు.
+He can sing, dance, and write.
+(All verbs in same form)
+
+Incorrect: అతను పాడగలడు, నృత్యం చేయడం మరియు రచన చేశాడు.
+He can sing, dancing, and wrote.
+(Verbs in different forms)
+
+7. Correlative Conjunctions (సహసంబంధ కలయికలు)
+గాని...గాని (gāni...gāni)
+నేను చాయే గాని కాఫీ గాని తాగను.
+I drink neither tea nor coffee.
+
+కూడా...కూడా (kūḍā...kūḍā)
+రాము కూడా రాడు, సీత కూడా రాదు.
+Neither Ram comes nor Sita.
+
+మాత్రమే కాదు...కూడా (mātramē kādu...kūḍā)
+అతను చదవడం మాత్రమే కాదు, వ్రాయడం కూడా నేర్చుకుంటాడు.
+He not only reads but also learns to write.
+
+8. Dangling Participles (లోపించిన క్రియార్థకాలు)
+Incorrect: గుడ్డు వేయటం మొదలుపెట్టి, పాత్ర పగిలిపోయింది.
+Starting to fry the egg, the utensil broke.
+(Who started? Unclear)
+
+Correct: నేను గుడ్డు వేయటం మొదలుపెట్టేసరికి, పాత్ర పగిలిపోయింది.
+When I started to fry the egg, the utensil broke.
+
+Incorrect: రోడ్డు దాటి, కారు అతనిని తగిలింది.
+Crossing the road, the car hit him.
+(Car crossed the road? Illogical)
+
+Correct: అతను రోడ్డు దాటుతుండగా, కారు అతనిని తగిలింది.
+While he was crossing the road, the car hit him.
+
+
 ఉదా: నేను—ఇది నా వ్యక్తిగత అభిప్రాయం—ఈ నిర్ణయాన్ని మద్దతిస్తున్నాను.
 
