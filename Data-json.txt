@@ -196,3 +196,94 @@
 
 {"instruction": "Write a Scientific observation.", "input": "చంద్రుని గురించి", "output": "చంద్రుని ఉపరితలం ముఖ్యంగా రెండు రకాలు: ఎత్తైన భూభాగాలు (టెర్రే) మరియు సమతల మైదానాలు (మారియా). ఇవి ప్రాచీన అగ్నిపర్వత విస్ఫోటనాల వల్ల ఏర్పడ్డాయి.", "source": "created"}
 
+{"instruction": "Correct the grammar and sentence structure.", "input": "అతను ఇంటికి వెళ్ళి పుస్తకం తీసుకుని వచ్చాడు", "output": "అతను ఇంటికి వెళ్లి పుస్తకం తీసుకుని వచ్చాడు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "పిల్లలు పాఠశాల వెళ్తున్నారు", "output": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "నేను రేపు మార్కెట్ వెళ్తాను", "output": "నేను రేపు మార్కెట్‌కు వెళ్తాను", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "వారు ఇద్దరూ వచ్చాడు", "output": "వారు ఇద్దరూ వచ్చారు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "నా స్నేహితుడు ఒక బుద్ధిమంతుడు వ్యక్తి", "output": "నా స్నేహితుడు ఒక బుద్ధిమంతుడు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "అతని ఇల్లు చాలా అందంగా ఉంది కానీ చిన్నది", "output": "అతని ఇల్లు చాలా అందంగా ఉన్నప్పటికీ చిన్నది", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "పుస్తకం పట్టు చదువుతున్నాను", "output": "పుస్తకాన్ని పట్టుకుని చదువుతున్నాను", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "వారు ఇంట్లో ఉన్నారు కాబట్టి వెళ్ళలేదు", "output": "వారు ఇంట్లో ఉన్నారు కాబట్టి వెళ్లలేదు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "నేను గత వారం సినిమా చూస్తున్నాను", "output": "నేను గత వారం సినిమా చూశాను", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "పిల్లి పాలు తాగుతుంది దాని పిల్లలు", "output": "పిల్లి తన పిల్లలకు పాలు ఇస్తుంది", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "మేము అందరం వెళ్ళింది", "output": "మేము అందరం వెళ్లాము", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "అతను చెప్పాడు అని వస్తాను", "output": "అతను వస్తానని చెప్పాడు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "ఈ పని చేయడం కష్టం కాదు", "output": "ఈ పని చేయడం సులభం", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "పువ్వులు తోట లో ఉన్నాయి", "output": "పువ్వులు తోటలో ఉన్నాయి", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "వారు రోజూ క్రీడలు ఆడుతున్నారు", "output": "వారు రోజూ క్రీడలు ఆడతారు", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "నేను రాముడు కలిసాను", "output": "నేను రాముడిని కలిశాను", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "ఆమె వచ్చి నవ్వుతూ కూర్చుంది", "output": "ఆమె నవ్వుతూ వచ్చి కూర్చుంది", "notes": ""}
+{"instruction": "Correct the grammar and sentence structure.", "input": "ఇది చాలా మంచి ఉంది", "output": "ఇది చాలా మంచిగా ఉంది", "notes": ""}
+{"instruction": "Convert to Passive voice.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి చేత కాఫీ తాగబడుతుంది.", "notes": "Avoid unnatural passive."}
+{"instruction": "Convert to Compound sentence.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి కాఫీ తాగుతాడు మరియు పేపర్ చదువుతాడు.", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి కాఫీ తాగుతాడా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి కాఫీ తాగడు.", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి కాఫీ తాగాడు.", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి కాఫీ తాగుతాడు/తాగబోతున్నాడు.", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "రవి కాఫీ తాగుతాడు", "output": "వాళ్లు కాఫీ తాగుతారు.", "notes": ""}
+{"instruction": "Add adverb.", "input": "రవి కాఫీ తాగుతాడు", "output": "రవి నెమ్మదిగా కాఫీ తాగుతాడు.", "notes": ""}
+{"instruction": "Convert to Compound sentence.", "input": "మేఘాలు వస్తున్నాయి", "output": "మేఘాలు వస్తున్నాయి కానీ వర్షం పడటం లేదు.", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "మేఘాలు వస్తున్నాయి", "output": "మేఘాలు వస్తున్నాయా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "మేఘాలు వస్తున్నాయి", "output": "మేఘాలు రావడం లేదు.", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "మేఘాలు వస్తున్నాయి", "output": "మేఘాలు వచ్చాయి.", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "మేఘాలు వస్తున్నాయి", "output": "మేఘాలు రాబోతున్నాయి.", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "మేఘం వస్తోంది", "output": "మేఘాలు వస్తున్నాయి.", "notes": ""}
+{"instruction": "Add adverb.", "input": "మేఘాలు వస్తున్నాయి", "output": "మేఘాలు వేగంగా వస్తున్నాయి.", "notes": ""}
+{"instruction": "Convert to Compound sentence.", "input": "ఆమె భయపడుతోంది", "output": "ఆమె భయపడుతోంది, అందుకే ఏడుస్తోంది.", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "ఆమె భయపడుతోంది", "output": "ఆమె భయపడుతోందా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "ఆమె భయపడుతోంది", "output": "ఆమె భయపడటం లేదు.", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "ఆమె భయపడుతోంది", "output": "ఆమె భయపడింది.", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "ఆమె భయపడుతోంది", "output": "ఆమె భయపడుతుంది.", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "ఆమె భయపడుతోంది", "output": "వాళ్ళు భయపడుతున్నారు.", "notes": ""}
+{"instruction": "Add adverb.", "input": "ఆమె భయపడుతోంది", "output": "ఆమె అనవసరంగా భయపడుతోంది.", "notes": ""}
+{"instruction": "Convert to Passive voice.", "input": "మేనేజర్ ప్రాజెక్ట్ వివరిస్తున్నారు", "output": "ప్రాజెక్ట్ మేనేజర్ చేత వివరించబడుతోంది.", "notes": "Avoid unnatural passive."}
+{"instruction": "Convert to Compound sentence.", "input": "మేనేజర్ వివరిస్తున్నారు", "output": "మేనేజర్ వివరిస్తున్నారు మరియు ప్రశ్నలు అడుగుతున్నారు.", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "మేనేజర్ వివరిస్తున్నారు", "output": "మేనేజర్ వివరిస్తున్నారా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "మేనేజర్ వివరిస్తున్నారు", "output": "మేనేజర్ వివరించడం లేదు.", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "మేనేజర్ వివరిస్తున్నారు", "output": "మేనేజర్ వివరించారు.", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "మేనేజర్ వివరిస్తున్నారు", "output": "మేనేజర్ వివరిస్తారు.", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "అతడు వివరిస్తున్నాడు", "output": "వారు వివరిస్తున్నారు.", "notes": ""}
+{"instruction": "Add adverb.", "input": "మేనేజర్ వివరిస్తున్నారు", "output": "మేనేజర్ క్లుప్తంగా వివరిస్తున్నారు.", "notes": ""}
+{"instruction": "Convert to Passive voice.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ చేత పిండివంటలు చేయబడతాయి.", "notes": "Avoid unnatural passive."}
+{"instruction": "Convert to Compound sentence.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ పిండివంటలు చేస్తుంది మరియు గుడికి వెళ్తుంది.", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ పిండివంటలు చేస్తుందా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ పిండివంటలు చేయదు.", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ పిండివంటలు చేసింది.", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ పిండివంటలు చేయబోతోంది.", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "అమ్మ చేస్తుంది", "output": "అమ్మలందరూ చేస్తారు (Mothers make) / మేము చేస్తాము (We make).", "notes": ""}
+{"instruction": "Add adverb.", "input": "అమ్మ పిండివంటలు చేస్తుంది", "output": "అమ్మ రుచిగా పిండివంటలు చేస్తుంది.", "notes": ""}
+{"instruction": "Convert to Passive voice.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "ఉదయం కాఫీ నాచేత తాగబడుతుంది", "notes": "Avoid unnatural passive."}
+{"instruction": "Convert to Compound sentence.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "నేను ఉదయం కాఫీ తాగుతాను మరియు బ్రేక్‌ఫాస్ట్ తింటాను", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "నువ్వు ఉదయం కాఫీ తాగుతావా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "నేను ఉదయం కాఫీ తాగను", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "నేను ఉదయం కాఫీ తాగాను", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "నేను ఉదయం కాఫీ తాగుతాను (రేపు)", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "మేము ఉదయం కాఫీ తాగుతాము", "notes": ""}
+{"instruction": "Add adverb.", "input": "నేను ఉదయం కాఫీ తాగుతాను", "output": "నేను ఉదయం శాంతంగా కాఫీ తాగుతాను", "notes": ""}
+{"instruction": "Convert to Passive voice.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "పుస్తకం ఆమెచేత చదువబడుతోంది", "notes": "Avoid unnatural passive."}
+{"instruction": "Convert to Compound sentence.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "ఆమె పుస్తకం చదువుతోంది కానీ ఫోన్ చూస్తోంది", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "ఆమె పుస్తకం చదువుతోందా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "ఆమె పుస్తకం చదవడం లేదు", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "ఆమె పుస్తకం చదివింది", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "ఆమె పుస్తకం చదువుతుంది (రేపు)", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "వారు పుస్తకం చదువుతున్నారు", "notes": ""}
+{"instruction": "Add adverb.", "input": "ఆమె పుస్తకం చదువుతోంది", "output": "ఆమె శాంతంగా పుస్తకం చదువుతోంది", "notes": ""}
+{"instruction": "Convert to Passive voice.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పాఠశాలకు పిల్లలు వెళ్లబడుతున్నారు", "notes": "Avoid unnatural passive."}
+{"instruction": "Convert to Compound sentence.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పిల్లలు పాఠశాలకు వెళ్తున్నారు మరియు బ్యాగ్‌లు తీసుకెళ్తున్నారు", "notes": ""}
+{"instruction": "Convert to Interrogative.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పిల్లలు పాఠశాలకు వెళ్తున్నారా?", "notes": ""}
+{"instruction": "Convert to Negative form.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పిల్లలు పాఠశాలకు వెళ్లడం లేదు", "notes": ""}
+{"instruction": "Convert to Past tense.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పిల్లలు పాఠశాలకు వెళ్లారు", "notes": ""}
+{"instruction": "Convert to Future tense.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పిల్లలు పాఠశాలకు వెళ్తారు", "notes": ""}
+{"instruction": "Convert to Plural form.", "input": "పిల్లవాడు పాఠశాలకు వెళ్తున్నాడు", "output": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "notes": ""}
+{"instruction": "Add adverb.", "input": "పిల్లలు పాఠశాలకు వెళ్తున్నారు", "output": "పిల్లలు త్వరగా పాఠశాలకు వెళ్తున్నారు", "notes": ""}
+{"instruction": "Explain the difference between terms in the query.", "input": "'చేయు' మరియు 'చేయించు' వాడుకలో తేడా ఏమిటి?", "output": "'చేయు' అంటే నేరుగా చేయడం. 'చేయించు' అంటే ఇతరుల ద్వారా చేయించడం (కారణాత్మక రూపం).", "notes": ""}
+{"instruction": "Explain the difference between terms in the query.", "input": "'కోసం' మరియు 'కొరకు' పూర్తిగా సమానార్థకాలేనా?", "output": "అర్థంలో సమానమే, కానీ వాడుకలో చిన్న తేడాలు ఉన్నాయి. 'కోసం' సాధారణంగా ప్రజలు/ప్రాణులకు, 'కొరకు' వస్తువులు/పనులకు ఎక్కువగా వాడతారు. అయినా ఆధునిక వాడుకలో 'కోసం' సర్వసాధారణం.", "notes": ""}
+{"instruction": "Explain the difference between terms in the query.", "input": "'అందుకే' మరియు 'అందుకని' వాడుకలో తేడా ఉందా?", "output": "రెండూ కారణాన్ని తెలియజేసే అవ్యయాలు, కానీ 'అందుకే' ప్రత్యేకత/ఊహించని కారణాన్ని తెలియజేస్తుంది. 'అందుకని' సహజమైన/ఊహించదగిన కారణాన్ని తెలియజేస్తుంది.", "notes": ""}
+{"instruction": "Explain the difference between terms in the query.", "input": "'కథ' మరియు 'కధ' ఏది సరైనది?", "output": "'కథ' మాత్రమే సరైన స్పెల్లింగ్. 'కధ' అనేది సాధారణంగా జరిగే రాయడపు తప్పు. 'కథ' అంటే నరేషన్/స్టోరీ, 'కధ' అనే పదానికి తెలుగులో అర్థం లేదు.", "notes": ""}
+{"instruction": "Explain the difference between terms in the query.", "input": "'ప్రధాన' మరియు 'సూత్రం' వాడుకలో తేడా ఏమిటి?", "output": "'ప్రధాన' అంటే ముఖ్యమైన/శిఖర (Principal). 'సూత్రం' అంటే నియమం/తత్వం (Principle). ఇది ఇంగ్లిష్లో 'principal vs principle' వంటిది. మెమరీ టిప్: ప్రధానుడు - పాల్ (మిత్రుడు) లాగా, సూత్రం - సుచన (నియమం) లాగా గుర్తుంచుకోండి.", "notes": ""}
+{"instruction": "Correct the paragraph grammar and structure.", "input": "ఈ రోజు మా ఊరిలో జాతర జరుగుతుంది, ప్రతి ఇల్లు అలంకరించారు. చాలా మంది ప్రజలు వచ్చింది, ధ్వని చాలా ఎక్కువగా ఉంటుంది. నేను ఒక పూలహారం కొని, నా చెల్లెలు ఇచ్చాను. ఆమె చాలా సంతోషించింది అందువల్ల ఆమె నవ్వు. శాంతి మరియు ఆనందం నిండి ఉన్నాయి ఈ వాతావరణంలో.", "output": "ఈ రోజు మా ఊరిలో జాతర జరుగుతోంది, ప్రతి ఇల్లూ అలంకరించారు. చాలా మంది ప్రజలు వచ్చారు, ధ్వని చాలా ఎక్కువగా ఉంది. నేను ఒక పూలహారం కొని నా చెల్లెలికి ఇచ్చాను. ఆమె చాలా సంతోషించింది కాబట్టి ఆమె నవ్వుతూ ఉంది. శాంతి మరియు ఆనందంతో ఈ వాతావరణం నిండి ఉంది.", "notes": ""}
+{"instruction": "Complete the story.", "input": "తెలివైన ముంగిస", "output": "ఒక అడవిలో చిన్ని అనే ముంగిస ఉండేది. ఆమెకు ముగ్గురు చిన్న పిల్లలు ఉన్నారు. ఒక రోజు పెద్ద పాము వచ్చి పిల్లలను తినాలని చూసింది. చిన్ని భయపడకుండా తెలివిగా ఆలోచించింది. \"అమ్మాయి, నా ఇంట్లో పెద్ద బంగారు గుడ్లు ఉన్నాయి. ముందు వాటిని తీసుకెళ్లు\" అని పాముతో చెప్పింది. పాము ఆనందంగా లోపలికి వెళ్లింది. చిన్ని వెంటనే రాయితో పామును కొట్టి బయటికి తరిమేసింది. అలా తన పిల్లలను కాపాడుకుంది. Moral: తెలివి బలం కంటే గొప్పది.", "notes": ""}
+{"instruction": "Complete the story.", "input": "మంచి స్నేహం", "output": "రాము, కృష్ణ అనే ఇద్దరు స్నేహితులు గ్రామంలో ఉండేవారు. ఒక రోజు రాము జబ్బు పడ్డాడు. కృష్ణ రోజూ అతని ఇంటికి వచ్చి పండ్లు, మందులు తెచ్చి సేవ చేశాడు. రాము కుటుంబం చాలా సంతోషపడింది. కృష్ణ తన స్నేహితుడిని ఎప్పుడూ వదలలేదు. కొన్ని రోజుల తర్వాత రాము బాగుపడ్డాడు. ఇద్దరూ మళ్లీ కలిసి ఆడుకున్నారు. రాము కృష్ణకు హృదయపూర్వకంగా ధన్యవాదాలు చెప్పాడు. Moral: నిజమైన స్నేహం కష్టకాలంలో తెలుస్తుంది.", "notes": ""}
+{"instruction": "Complete the story.", "input": "ఉదయం లేవడం", "output": "లక్ష్మీ అనే అమ్మాయి రోజూ ఆలస్యంగా లేసేది. పాఠశాలకు ఆలస్యంగా వెళ్లేది. టీచర్ ఆమెను కొద్దిగా తిట్టేవాడు. ఒక రోజు అమ్మ చెప్పింది, \"లక్ష్మీ, ఉదయం త్వరగా లేస్తే రోజంతా చురుకుగా ఉంటావు.\" లక్ష్మీ మరుసటి రోజు నుండి ఉదయం ఐదు గంటలకు లేచింది. వ్యాయామం చేసి, బాగా చదివి పాఠశాలకు సమయానికి వెళ్లింది. ఆమెకు చాలా సంతోషంగా ఉంది. ఆ ఆలవాటు కొనసాగించింది. Moral: ఉదయం త్వరగా లేవడం మంచి ఆరోగ్యానికి, విజయానికి దారితీస్తుంది.", "notes": ""}
+{"instruction": "Complete the story.", "input": "శివాజీ ధైర్యం", "output": "చిన్నప్పుడు శివాజీ అనే బాలుడు తన తల్లిదండ్రులతో గ్రామంలో ఉండేవాడు. ఒకసారి మొఘల్ సైనికులు గ్రామంపై దాడి చేశారు. చాలామంది భయపడ్డారు. కానీ శివాజీ ధైర్యంగా నిలబడి, తన స్నేహితులతో కలిసి సైనికులను ఎదిరించాడు. అతని తెలివితో శత్రువులను ఓడించారు. ఆ తర్వాత శివాజీ మహారాజు అయ్యాడు. ఆయన హిందూ రాజ్యాన్ని కాపాడాడు. ప్రజలు అతన్ని చాలా గౌరవించారు. Moral: ధైర్యం ఉంటే ఏ శత్రువునైనా ఓడించవచ్చు.", "notes": ""}
+{"instruction": "Complete the story.", "input": "నీరు ఎలా పుడుతుంది", "output": "కృష్ణ అనే బాలుడు తన అమ్మతో, \"అమ్మా, మేఘాల నుండి వర్షం ఎలా వస్తుంది?\" అని అడిగాడు. అమ్మ చెప్పింది, \"సూర్యుడు సముద్రం నీటిని వేడి చేస్తాడు. ఆ నీరు ఆవిరిగా మారి పైకి వెళ్తుంది. చల్లగా అయ్యాక మేఘాలుగా మారుతుంది. గాలి వీస్తే మేఘాలు కదిలి వర్షంగా కురుస్తాయి.\" కృష్ణ ఆశ్చర్యపోయాడు. అతను ప్రతి రోజు ఆకాశం చూసి వర్షం గురించి ఆలోచించేవాడు. ఆ విధంగా అతనికి సైన్స్ బాగా నచ్చింది. Moral: ప్రకృతి చక్రం తెలుసుకోవడం జ్ఞానాన్ని పెంచుతుంది.", "notes": ""}
