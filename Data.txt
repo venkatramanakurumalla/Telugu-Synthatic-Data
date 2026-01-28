@@ -857,6 +857,167 @@ Word Choice Error (పద ఎంపిక దోషం): "నా చెల్ల
 Punctuation/Sentence Structure Error (విరామ చిహ్న/వాక్యనిర్మాణ దోషం): "ఆమె చాలా సంతోషించింది అందువల్ల ఆమె నవ్వు." is a run-on sentence. It is better structured as two clauses: "...సంతోషించింది కాబట్టి ఆమె నవ్వుతూ ఉంది." Also, "నవ్వు" is a noun; the continuous action requires "నవ్వుతూ ఉంది".
 
 Sentence Structure/Agreement Error (వాక్యనిర్మాణ/సమాస దోషం): "శాంతి మరియు ఆనందం నిండి ఉన్నాయి ఈ వాతావరణంలో." has awkward word order and agreement. The abstract qualities "శాంతి మరియు ఆనందం" are better described as filling the atmosphere with them. The corrected version "శాంతి మరియు ఆనందంతో ఈ వాతావరణం నిండి ఉంది" is more natural and idiomatic.
+Simple Present Tense
+
+నేను రోజు పాఠశాలకు వెళ్తాను. (I go to school daily.)
+
+అతను తెలుగు నేర్చుకుంటాడు. (He learns Telugu.)
+
+ఆమె కాఫీ తాగుతుంది. (She drinks coffee.)
+
+మేము ఇంట్లో తిన్నూ తినుతాము. (We eat at home.)
+
+వారు పని చేస్తారు. (They work.)
+
+2. Basic Plurals
+
+ఒక పుస్తకం → రెండు పుస్తకాలు (One book → Two books)
+
+ఒక బాలుడు → ముగ్గురు బాలురు (One boy → Three boys)
+
+ఒక పక్షి → నాలుగు పక్షులు (One bird → Four birds)
+
+ఒక పువ్వు → ఐదు పువ్వులు (One flower → Five flowers)
+
+ఒక మేడి → ఆరు మేడీలు (One tree → Six trees)
+
+3. Simple Questions
+
+మీ పేరు ఏమిటి? (What is your name?)
+
+ఇది ఎంత? (How much is this?)
+
+మీరు ఎక్కడ నివసిస్తున్నారు? (Where do you live?)
+
+అతను ఎవరు? (Who is he?)
+
+మీకు కాఫీ కావాలా? (Do you want coffee?)
+
+Intermediate Level (B1-B2)
+1. Perfect Tenses
+
+నేను పుస్తకం చదివాను. (I have read the book.)
+
+అతను ఇంటికి చేరుకున్నాడు. (He has reached home.)
+
+ఆమె ఆ పని పూర్తి చేసింది. (She has completed that work.)
+
+మేము భోజనం చేశాము. (We have eaten food.)
+
+వారు ఇప్పటికే వెళ్ళారు. (They have already left.)
+
+2. Relative Clauses
+
+నేను నిన్న కొన్న పుస్తకం చాలా బాగుంది. (The book that I bought yesterday is very good.)
+
+ఇక్కడ పని చేసే వ్యక్తి నా మామ. (The person who works here is my uncle.)
+
+ఆమె వ్రాసిన కవిత చదవండి. (Read the poem that she wrote.)
+
+మీరు చూసిన సినిమా ఎలా ఉంది? (How was the movie that you saw?)
+
+వాళ్ళు నివసించే ఇల్లు చాలా పెద్దది. (The house where they live is very big.)
+
+3. Reported Speech
+
+అతను "నేను రేపు వస్తాను" అన్నాడు. → అతను రేపు వస్తానని అన్నాడు. (He said he would come tomorrow.)
+
+ఆమె "నాకు ఆహారం కావాలి" అంది. → ఆమెకు ఆహారం కావాలని అంది. (She said she wanted food.)
+
+"మేము ఆడుతున్నాము" అని పిల్లలు చెప్పారు. → పిల్లలు వారు ఆడుతున్నారని చెప్పారు. (The children said they were playing.)
+
+"నేను చేయను" అని అతను చెప్పాడు. → అతను చేయనని చెప్పాడు. (He said he wouldn't do it.)
+
+"మీరు ఎప్పుడు వస్తారు?" అని ఆమె అడిగింది. → ఆమె మేము ఎప్పుడు వస్తామని అడిగింది. (She asked when we would come.)
+
+Advanced Level (C1-C2)
+1. Inversion (for emphasis in literary/formal contexts)
+
+ఎంత అందంగా ఉంది ఆ ప్రకృతి దృశ్యం! → అందంగా ఎంత ఉంది ఆ ప్రకృతి దృశ్యం! (How beautiful that natural scenery is!)
+
+ఎప్పుడూ చూడని విషయం ఇది. → చూడనిది ఎప్పుడూ ఇది. (This is something never seen before.)
+
+కష్టమైన కార్యం ఇది. → అయ్యేది కష్టమైన కార్యం ఇది. (This is a difficult task.)
+
+ముందెన్నడూ వినని సంగీతం ఇది. → విననిది ముందెన్నడూ ఇది సంగీతం. (This is music never heard before.)
+
+ఆశ్చర్యకరంగా ఉంది ఈ వార్త. → ఉంది ఆశ్చర్యకరంగా ఈ వార్త! (This news is surprisingly shocking!)
+
+2. Cleft Sentences (Emphasizing specific elements)
+
+ఇదే నేను చెప్పడానికి ప్రయత్నిస్తున్నది. (This is what I'm trying to say.)
+
+అతనే దీనికి కారణం. (He is the one who is responsible for this.)
+
+ఇక్కడే మేము కలవాలని ఉంటుంది. (It is here that we should meet.)
+
+ఈ పద్ధతిలో మాత్రమే సమస్య పరిష్కారం కాగలదు. (Only in this way can the problem be solved.)
+
+రెండు రోజుల క్రితమే అతను వచ్చాడు. (It was just two days ago that he came.)
+
+3. Subjunctive Mood (సంభావ్యార్థకం)
+
+నీవు ఉండేది మంచిది. (It would be good if you were here.)
+
+అతను వచ్చేవాడు కావాలి. (I wish he would come.)
+
+మేము గెలిచేది అయితే బాగుండేది. (It would be nice if we won.)
+
+ఆమె మాట్లాడేది కావాలని ఉంది. (I want her to speak.)
+
+నేను తినేది కావాలి. (I wish to eat.)
+
+4. Mixed Conditionals
+
+అతను చదువుతుంటే, ఇప్పుడు ఉద్యోగంలో ఉండేవాడు. (If he had studied, he would be employed now. - Past condition, present result)
+
+ఆమె ఇక్కడ ఉంటే, నిన్న సహాయం చేసేది. (If she were here, she would have helped yesterday. - Present condition, past result)
+
+మీరు చెప్పి ఉంటే, నేను వెళ్ళేది కాదు. (If you had told me, I would not go. - Past condition, future result)
+
+వర్షం పడుతుంటే, భూమి చల్లబడి ఉండేది. (If it were raining, the ground would have cooled. - Present condition, past result)
+
+నేను తెలుసుకుని ఉంటే, భిన్నంగా ప్రవర్తించేవాడిని. (If I had known, I would behave differently. - Past condition, present behavior)
+
+5. Complex Example (Combining multiple advanced features)
+
+అతను ముందు హెచ్చరించి ఉండేది అయితే, ఇప్పుడు మేము ఈ సమస్యలో చిక్కుకోనివారం. (Subjunctive + Mixed Conditional)
+
+కష్టపడేవారు మాత్రమే ఇటువంటి ఫలితాలు పొందగలరని, అదే నా నమ్మకం. (Cleft + Reported Belief)
+
+ఎంతో ఆలోచించిన పిదప తీసుకున్న నిర్ణయం ఇది, దీని వలనే సంస్థ ముందుకు సాగింది. (Inversion + Relative Clause)
+Title: తెలివైన ముంగిస  
+Story: ఒక అడవిలో చిన్ని అనే ముంగిస ఉండేది. ఆమెకు ముగ్గురు చిన్న పిల్లలు ఉన్నారు. ఒక రోజు పెద్ద పాము వచ్చి పిల్లలను తినాలని చూసింది. చిన్ని భయపడకుండా తెలివిగా ఆలోచించింది. "అమ్మాయి, నా ఇంట్లో పెద్ద బంగారు గుడ్లు ఉన్నాయి. ముందు వాటిని తీసుకెళ్లు" అని పాముతో చెప్పింది. పాము ఆనందంగా లోపలికి వెళ్లింది. చిన్ని వెంటనే రాయితో పామును కొట్టి బయటికి తరిమేసింది. అలా తన పిల్లలను కాపాడుకుంది.  
+Moral: తెలివి బలం కంటే గొప్పది.  
+Words: 112
+
+---
+
+Title: మంచి స్నేహం  
+Story: రాము, కృష్ణ అనే ఇద్దరు స్నేహితులు గ్రామంలో ఉండేవారు. ఒక రోజు రాము జబ్బు పడ్డాడు. కృష్ణ రోజూ అతని ఇంటికి వచ్చి పండ్లు, మందులు తెచ్చి సేవ చేశాడు. రాము కుటుంబం చాలా సంతోషపడింది. కృష్ణ తన స్నేహితుడిని ఎప్పుడూ వదలలేదు. కొన్ని రోజుల తర్వాత రాము బాగుపడ్డాడు. ఇద్దరూ మళ్లీ కలిసి ఆడుకున్నారు. రాము కృష్ణకు హృదయపూర్వకంగా ధన్యవాదాలు చెప్పాడు.  
+Moral: నిజమైన స్నేహం కష్టకాలంలో తెలుస్తుంది.  
+Words: 108
+
+---
+
+Title: ఉదయం లేవడం  
+Story: లక్ష్మీ అనే అమ్మాయి రోజూ ఆలస్యంగా లేసేది. పాఠశాలకు ఆలస్యంగా వెళ్లేది. టీచర్ ఆమెను కొద్దిగా తిట్టేవాడు. ఒక రోజు అమ్మ చెప్పింది, "లక్ష్మీ, ఉదయం త్వరగా లేస్తే రోజంతా చురుకుగా ఉంటావు." లక్ష్మీ మరుసటి రోజు నుండి ఉదయం ఐదు గంటలకు లేచింది. వ్యాయామం చేసి, బాగా చదివి పాఠశాలకు సమయానికి వెళ్లింది. ఆమెకు చాలా సంతోషంగా ఉంది. ఆ ఆలవాటు కొనసాగించింది.  
+Moral: ఉదయం త్వరగా లేవడం మంచి ఆరోగ్యానికి, విజయానికి దారితీస్తుంది.  
+Words: 114
+
+---
+
+Title: శివాజీ ధైర్యం  
+Story: చిన్నప్పుడు శివాజీ అనే బాలుడు తన తల్లిదండ్రులతో గ్రామంలో ఉండేవాడు. ఒకసారి మొఘల్ సైనికులు గ్రామంపై దాడి చేశారు. చాలామంది భయపడ్డారు. కానీ శివాజీ ధైర్యంగా నిలబడి, తన స్నేహితులతో కలిసి సైనికులను ఎదిరించాడు. అతని తెలివితో శత్రువులను ఓడించారు. ఆ తర్వాత శివాజీ మహారాజు అయ్యాడు. ఆయన హిందూ రాజ్యాన్ని కాపాడాడు. ప్రజలు అతన్ని చాలా గౌరవించారు.  
+Moral: ధైర్యం ఉంటే ఏ శత్రువునైనా ఓడించవచ్చు.  
+Words: 118
+
+---
+
+Title: నీరు ఎలా పుడుతుంది  
+Story: కృష్ణ అనే బాలుడు తన అమ్మతో, "అమ్మా, మేఘాల నుండి వర్షం ఎలా వస్తుంది?" అని అడిగాడు. అమ్మ చెప్పింది, "సూర్యుడు సముద్రం నీటిని వేడి చేస్తాడు. ఆ నీరు ఆవిరిగా మారి పైకి వెళ్తుంది. చల్లగా అయ్యాక మేఘాలుగా మారుతుంది. గాలి వీస్తే మేఘాలు కదిలి వర్షంగా కురుస్తాయి." కృష్ణ ఆశ్చర్యపోయాడు. అతను ప్రతి రోజు ఆకాశం చూసి వర్షం గురించి ఆలోచించేవాడు. ఆ విధంగా అతనికి సైన్స్ బాగా నచ్చింది.  
+Moral: ప్రకృతి చక్రం తెలుసుకోవడం జ్ఞానాన్ని పెంచుతుంది.  
+Words: 124
 
 
 
