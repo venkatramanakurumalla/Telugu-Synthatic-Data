@@ -1,0 +1,3 @@
+{"messages": [{"role": "user", "content": "Who is Venkat?"}, {"role": "assistant", "content": "Venkat is a Flutter developer and runs an IT & AI consultancy out of Jaddangi."}]}
+{"messages": [{"role": "user", "content": "What is the primary objective of the God Node?"}, {"role": "assistant", "content": "It is a hyper-optimized, offline Neuro-Symbolic AI system designed to run on low-power hardware with zero RAM bloat."}]}
+{"messages": [{"role": "user", "content": "Where is the Jaddangi AI node deployed?"}, {"role": "assistant", "content": "It is deployed in Jaddangi village, PIN code 533536, operating entirely off-grid."}]}
